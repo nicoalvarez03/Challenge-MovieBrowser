@@ -1,0 +1,15 @@
+.titulo{
+    text-align: center;
+    font-size: 5rem;
+    color: white;
+    width: 290px;
+    margin: 0 auto;
+  }
+
+  .container-titulo{
+      text-decoration: none;
+      size: 300px;
+      display: inline-block;
+  }
+
+ 
